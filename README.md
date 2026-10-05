@@ -1,13 +1,13 @@
-📘 Assignment 8 – CV5100: MUDE (IIT Madras)
+📘 Assignment 8 – CV5101: MUDE (IIT Madras)
 
 Topic: Sampling and simulation methods 
 
-Course: CV5100 – Modelling, Uncertainty, and Data for Engineers
+Course: CV5101 – Modelling, Uncertainty, and Data for Engineers
 
 
 *Written by: `pradeep, prakash, and sudheendra`*
 
-*Due: `Monday, Oct 18, 2025`*
+*Due: `Monday, Oct 05, 2026`*
 
 🚀 Overview
 
